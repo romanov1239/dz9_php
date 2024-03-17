@@ -1,0 +1,3 @@
+[2024-03-16T23:58:39.967670+00:00] application_logger.ERROR: Метод actionIndexRefreshAfterDelete не существует в контроллере Geekbrains\Application1\Domain\Controllers\UserController | Попытка вызова адреса /user/IndexRefreshAfterDelete [] []
+[2024-03-16T23:58:42.915191+00:00] application_logger.ERROR: Метод actionIndexRefreshAfterDelete не существует в контроллере Geekbrains\Application1\Domain\Controllers\UserController | Попытка вызова адреса /user/IndexRefreshAfterDelete [] []
+[2024-03-16T23:58:44.554477+00:00] application_logger.ERROR: Метод actionIndexRefreshAfterDelete не существует в контроллере Geekbrains\Application1\Domain\Controllers\UserController | Попытка вызова адреса /user/IndexRefreshAfterDelete [] []
